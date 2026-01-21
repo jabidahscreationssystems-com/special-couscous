@@ -47,7 +47,7 @@ jobs:
 
     steps:
       # Change @main to a specific commit SHA or version tag, e.g.:
-      # jabidahscreationssystems-com/special-couscous@e76147da8e5c81eaf017dede5645551d4b94427b
+      # jabidahscreationssystems-com/special-couscous@<commit-sha>
       # jabidahscreationssystems-com/special-couscous@v1.2.3
       - name: Print to Log
         id: print-to-log
@@ -74,9 +74,9 @@ For example workflow runs, check out the
 
 ## Monitoring with CatLight
 
-This repository is configured to work with
-[CatLight](https://catlight.io/), a desktop build status notifier. CatLight
-provides real-time notifications for GitHub Actions workflow status changes.
+This repository is configured to work with [CatLight](https://catlight.io/), a
+desktop build status notifier. CatLight provides real-time notifications for
+GitHub Actions workflow status changes.
 
 ### Setting Up CatLight
 
