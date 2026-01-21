@@ -1,17 +1,17 @@
 {
-  "name": "hello-world-javascript-action",
+  "name": "special-couscous",
   "description": "This action prints `Hello, World!` or `Hello, <who-to-greet>!` to the log",
   "version": "1.0.0",
-  "author": "",
+  "author": "Jabidah's Creations Systems",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/actions/hello-world-javascript-action#readme",
+  "homepage": "https://github.com/jabidahscreationssystems-com/special-couscous#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/hello-world-javascript-action.git"
+    "url": "git+https://github.com/jabidahscreationssystems-com/special-couscous.git"
   },
   "bugs": {
-    "url": "https://github.com/actions/hello-world-javascript-action/issues"
+    "url": "https://github.com/jabidahscreationssystems-com/special-couscous/issues"
   },
   "keywords": [
     "GitHub",
